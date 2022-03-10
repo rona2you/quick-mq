@@ -1,0 +1,3 @@
+# Project exclude paths
+/mq-consumer/target/
+/mq-producer/target/
